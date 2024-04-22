@@ -1,7 +1,7 @@
 👉 Live Demo: https://qr-code-generator-psi-ten.vercel.app/
 
 Build with:
-» HTML5
+<p> » HTML5 </p>
 » CSS
 » JavaScript
 
