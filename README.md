@@ -2,7 +2,7 @@
 
 Build with:
 <h4> » HTML5 </h4>
- <h3> » CSS  </h3>
- <h3>» JavaScript <h3>
+ <h4> » CSS  </h4>
+ <h4>» JavaScript <h4>
 
 
