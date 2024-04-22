@@ -1,4 +1,4 @@
-👉 Live Demo: <a href="[ https://qr-code-generator-psi-ten.vercel.app/](https://qr-code-generator-psi-ten.vercel.app/)">Qr Generator</a>
+👉 Live Demo: https://qr-code-generator-psi-ten.vercel.app/
 
 Build with:
 <h4> » HTML5 </h4>
